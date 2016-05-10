@@ -1,0 +1,7 @@
+Janine:month:chocolate:anniversary:bli
+Jason:weekly:chocolate:anniversary:bli
+Kirsten:day:red:birthday:exc
+Josh:twice:chocolate:birthday:ecs
+Eli:day:red:holiday:bli
+Andrew:day:chocolate:wedding:
+James:twice:vanilla:holiday:
