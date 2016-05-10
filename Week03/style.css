@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Zapf Chancery, cursive);
+@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+
+body {
+   text-align:center;
+   align-items:center;
+   background-color: lightgrey !important;
+   margin: 20px 10%;
+
+}
+
+h1 {
+
+  text-align: center;
+  font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+  color: #fff;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+
+
+ul {
+    font-size: 25px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: LightGrey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: darkGrey;
+    font-family:Zapf Chancery, cursive;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #696969;}
+
+p{
+      font-family: Verdana, serif; font-size: 45; color: Black;
+      text-align: center; text-decoration: none;
+}
